@@ -1,0 +1,141 @@
+[
+  {
+    "sensor_id": "sensor-a12",
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:32:11Z",
+    "reading_type": "soil_moisture",
+    "value": 38.4
+  },
+  {
+    "sensor_id": "sensor-a13",
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:32:12Z",
+    "reading_type": "soil_temperature",
+    "value": 21.7
+  },
+  {
+    "sensor_id": "sensor-b04",
+    "field_id": "field-012",
+    "timestamp": "2026-05-22T14:32:14Z",
+    "reading_type": "soil_moisture",
+    "value": 42.1
+  },
+  {
+    "sensor_id": "sensor-a12",
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:33:11Z",
+    "reading_type": "soil_moisture",
+    "value": 38.9
+  },
+  {
+    "sensor_id": "sensor-a12",
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:32:11Z",
+    "reading_type": "soil_moisture",
+    "value": 38.4
+  },
+  {
+    "sensor_id": "sensor-c21",
+    "field_id": "field-012",
+    "timestamp": "2026-05-22T14:33:30Z",
+    "reading_type": "ambient_temperature",
+    "value": 27.3
+  },
+  {
+    "sensor_id": "sensor-a13",
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:32:12Z",
+    "reading_type": "soil_temperature",
+    "value": 21.7
+  },
+  {
+    "sensor_id": "sensor-b04",
+    "field_id": "field-012",
+    "timestamp": "2026-05-22T14:31:00Z",
+    "reading_type": "soil_moisture",
+    "value": 41.8
+  },
+  {
+    "sensor_id": "sensor-c21",
+    "field_id": "field-012",
+    "timestamp": "2026-05-22T14:34:30Z",
+    "reading_type": "ambient_temperature",
+    "value": "twenty-seven"
+  },
+  {
+    "sensor_id": "sensor-a12",
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:34:11Z",
+    "reading_type": "soil_moisture",
+    "value": 39.2
+  },
+  {
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:34:12Z",
+    "reading_type": "soil_temperature",
+    "value": 22.0
+  },
+  {
+    "sensor_id": "sensor-b04",
+    "field_id": "field-012",
+    "timestamp": "2026-05-22T14:34:14Z",
+    "reading_type": "soil_moisture",
+    "value": 42.5
+  },
+  {
+    "sensor_id": "sensor-a13",
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:33:12Z",
+    "reading_type": "soil_temperature",
+    "value": 21.9
+  },
+  {
+    "sensor_id": "sensor-c21",
+    "field_id": "field-012",
+    "timestamp": "2026-05-22T14:35:30Z",
+    "reading_type": "ambient_temperature",
+    "value": 27.8
+  },
+  {
+    "sensor_id": "sensor-d99",
+    "field_id": "field-021",
+    "timestamp": "not-a-real-timestamp",
+    "reading_type": "soil_moisture",
+    "value": 35.0
+  },
+  {
+    "sensor_id": "sensor-b04",
+    "field_id": "field-012",
+    "timestamp": "2026-05-22T14:34:14Z",
+    "reading_type": "soil_moisture",
+    "value": 42.5
+  },
+  {
+    "sensor_id": "sensor-a12",
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:35:11Z",
+    "reading_type": "soil_moisture",
+    "value": 39.5
+  },
+  {
+    "sensor_id": "sensor-e07",
+    "field_id": "field-021",
+    "timestamp": "2026-05-22T14:35:00Z",
+    "reading_type": "soil_moisture",
+    "value": 33.2
+  },
+  {
+    "sensor_id": "sensor-a13",
+    "field_id": "field-007",
+    "timestamp": "2026-05-22T14:34:12Z",
+    "reading_type": "soil_temperature",
+    "value": 22.0
+  },
+  {
+    "sensor_id": "sensor-c21",
+    "field_id": "field-012",
+    "timestamp": "2026-05-22T14:33:30Z",
+    "reading_type": "ambient_temperature",
+    "value": 27.3
+  }
+]
